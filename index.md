@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Electric Chameleon
+The Chameleon is a reptilian creature who has an innate ability to change its skin color with its surroundings. Using a variety of color sensors and leds, my project is able to sense as well as portray its surrounding colors with beautiful ambient light.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
