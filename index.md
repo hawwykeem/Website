@@ -5,7 +5,7 @@ The Chameleon is a reptilian creature who has an innate ability to change its sk
 |:--:|:--:|:--:|:--:|
 | Harry Kim | Sage Hill School | Electrical Engineering | Rising Sophomore
 
-[IMG_1018](https://user-images.githubusercontent.com/107695798/176905591-e1c8ba32-bbc2-4a46-8c57-d57ce06d4b15.JPG)
+![IMG_1018](https://user-images.githubusercontent.com/107695798/176905591-e1c8ba32-bbc2-4a46-8c57-d57ce06d4b15.JPG)
 
   
 # Final Milestone
